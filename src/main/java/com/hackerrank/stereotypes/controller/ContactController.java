@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import javax.ws.rs.PathParam;
-import org.springframework.beans.factoryy.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Autowired;
 
 
 @Controller
